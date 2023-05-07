@@ -1,2 +1,2 @@
 # Time-series-momentum
-The aim is to build a model that can predict the payment performance for the next loan requests, based on some predictors:
+The main goal is to implement time series momentum (Moskwitz et al. 2012) quantitate trading strategy (a variation of Cross-Sectional Momentum trading stretagy) in a foreign exchange market using a broad dataset of 46 countriies' currencies in the period between the end of November 1983 and the end of May 2019. Strategy is evaluated by Sharpe ratio and value at risk(VaR) afterwards.
